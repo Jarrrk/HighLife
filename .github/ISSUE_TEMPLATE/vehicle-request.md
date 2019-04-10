@@ -2,7 +2,7 @@
 name: Vehicle Request
 about: Suggest a new vehicle for HighLife
 title: ''
-labels: ''
+labels: vehicles
 assignees: ''
 
 ---
