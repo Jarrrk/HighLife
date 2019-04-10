@@ -1,2 +1,2 @@
 # HighLifeRP
-Issue tracker for https://blackhawkgaming.net
+An issue and feature tracker for HighLife Roleplay on FiveM.
