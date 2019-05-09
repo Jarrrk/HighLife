@@ -7,18 +7,18 @@ assignees: ''
 
 ---
 
-**Before submitting, make sure your vehicle has not already been suggested or implemented**
+[**Before submitting, make sure your vehicle has not already been suggested or implemented** - **Remove this line!**]
 
 **A link to the vehicle mod page:** 
-Replace this with a link to the GTA5-mods page
+[Replace this with a link to the GTA5-mods page]
 
 **Describe why this would be a good addition to HighLife**
-A clear and concise description of why you think it would be a good fit
+[A clear and concise description of why you think it would be a good fit. **Remove this line!**]
 
 **Is the vehicle high quality? If so, have you tested to confirm this?**
 
 **Is the vehicle GTA lore related?**
-Yes/No
+[Yes/No]
 
 **Additional context**
-Add any other context or screenshots about the vehicle request here.
+[Add any other context or screenshots about the vehicle request here. **Remove this line!**]
