@@ -40,11 +40,10 @@ Config.Trunk = {
 		['teslax'] = 16,
 		['minivan'] = 30,
 		['caravan'] = 30,
-
 		['superkart'] = 0,
 
 		-- Motorcycles
-		['bagger'] = 6,
+		['bagger'] = 5,
 
 		-- ATV's
 		['blazer'] = 0,
