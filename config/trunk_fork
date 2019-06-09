@@ -16,7 +16,7 @@ Config.Trunk = {
 		0,  -- Utility
 		50, -- Vans
 		1,  -- Cycles
-		20, -- Boats
+		50, -- Boats
 		10, -- Helicopters
 		10, -- Planes
 		0,  -- Service
@@ -58,7 +58,7 @@ Config.Trunk = {
 		['dinghy2'] = 10,
 		['tropic'] = 10,
 		['marquis'] = 30,
-		['yacht2'] = 60,
+		['yacht2'] = 150,
 		['submersible'] = 3,
 	}
 }
