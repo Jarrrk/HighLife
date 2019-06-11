@@ -16,7 +16,7 @@ Config.Trunk = {
 		0,  -- Utility
 		50, -- Vans
 		1,  -- Cycles
-		20, -- Boats
+		50, -- Boats
 		10, -- Helicopters
 		10, -- Planes
 		0,  -- Service
@@ -35,7 +35,7 @@ Config.Trunk = {
 		['dubsta3'] = 35,
 		['kamacho'] = 35,
 		['guardian'] = 20,
-
+		['bison'] = 20,
 		['bifta'] = 3,
 		['teslax'] = 16,
 		['minivan'] = 30,
@@ -44,14 +44,14 @@ Config.Trunk = {
 		['superkart'] = 0,
 
 		-- Motorcycles
-		['bagger'] = 6,
+		['bagger'] = 5,
 
 		-- ATV's
-		['blazer'] = 3,
-		['blazer2'] = 3,
-		['blazer3'] = 3,
-		['blazer4'] = 3,
-		['blazer5'] = 3,
+		['blazer'] = 0,
+		['blazer2'] = 0,
+		['blazer3'] = 0,
+		['blazer4'] = 0,
+		['blazer5'] = 0,
 
 		-- Boats
 		['seashark'] = 3,
@@ -59,7 +59,7 @@ Config.Trunk = {
 		['dinghy2'] = 10,
 		['tropic'] = 10,
 		['marquis'] = 30,
-		['yacht2'] = 60,
+		['yacht2'] = 150,
 		['submersible'] = 3,
 	}
 }
