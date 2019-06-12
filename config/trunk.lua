@@ -35,7 +35,7 @@ Config.Trunk = {
 		['dubsta3'] = 35,
 		['kamacho'] = 35,
 		['guardian'] = 20,
-		['bison'] = 20,
+		['bison'] = 35,
 		['bifta'] = 3,
 		['teslax'] = 16,
 		['minivan'] = 30,
@@ -58,7 +58,7 @@ Config.Trunk = {
 		['suntrap'] = 10,
 		['dinghy2'] = 10,
 		['tropic'] = 10,
-		['marquis'] = 30,
+		['marquis'] = 75,
 		['yacht2'] = 150,
 		['submersible'] = 3,
 	}
