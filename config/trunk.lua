@@ -58,7 +58,7 @@ Config.Trunk = {
 		['suntrap'] = 10,
 		['dinghy2'] = 10,
 		['tropic'] = 10,
-		['marquis'] = 75,
+		['marquis'] = 100,
 		['yacht2'] = 150,
 		['submersible'] = 3,
 	}
