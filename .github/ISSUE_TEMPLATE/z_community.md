@@ -3,7 +3,7 @@ name: Community Comments, Concerns or Requests
 about: You can freely express your opinion, concerns or request that are related to the community.
 title: ''
 labels: other
-assignees: 'sbdonslaught'
+assignees: 'jarrrk'
 
 ---
 
