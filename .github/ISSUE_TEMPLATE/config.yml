@@ -1,11 +1,14 @@
 blank_issues_enabled: true
 contact_links:
+  - name: Q&A
+    url: https://github.com/Jarrrk/HighLife/discussions/categories/q-a
+    about: Ask a question about a feature/function/data you might not otherwise have the information for.
   - name: Feature Request
     url: https://github.com/Jarrrk/HighLife/discussions/categories/suggestions
     about: Suggest an idea for this project.
   - name: Balance Request
     url: https://github.com/Jarrrk/HighLife/discussions/categories/balancing
     about: Something doesn't feel quite right? OP almost? Suggest it here.
-  - name: Ask A Question
-    url: https://github.com/Jarrrk/HighLife/discussions/categories/q-a
-    about: Ask a question about a feature/function you might not otherwise have the information for.
+  - name: Community Feedback
+    url: https://github.com/Jarrrk/HighLife/discussions/categories/community
+    about: Suggestions and other methods we can improve the community as a collective - be nice!
