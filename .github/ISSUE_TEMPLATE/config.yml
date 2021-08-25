@@ -3,6 +3,12 @@ contact_links:
   - name: Q&A
     url: https://github.com/Jarrrk/HighLife/discussions/categories/q-a
     about: Ask a question about a feature/function/data you might not otherwise have the information for.
+  - name: Vehicle Request
+    url: https://github.com/Jarrrk/HighLife/discussions/3553
+    about: Request vehicles on this thread for the vehicles team to review. Please follow the format!
+  - name: Vehicle Issues/Balance
+    url: https://github.com/Jarrrk/HighLife/discussions/3552
+    about: Let us know if you've found an issue with a vehicle. Make sure it's detailed!
   - name: Feature Request
     url: https://github.com/Jarrrk/HighLife/discussions/categories/suggestions
     about: Suggest an idea for this project.
