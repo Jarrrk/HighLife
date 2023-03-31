@@ -1,20 +1,11 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Q&A
-    url: https://github.com/Jarrrk/HighLife/discussions/categories/q-a
-    about: Ask a question about a feature/function/data you might not otherwise have the information for.
   - name: Vehicle Request
-    url: https://github.com/Jarrrk/HighLife/discussions/3553
-    about: Request vehicles on this thread for the vehicles team to review. Please follow the format!
+    url: https://discord.com/channels/366897352012988418/1024452556107296868
+    about: Request vehicles on this Discord Forum thread for the vehicles team to review. Please follow the format!
   - name: Vehicle Issues/Balance
-    url: https://github.com/Jarrrk/HighLife/discussions/3552
-    about: Let us know if you've found an issue with a vehicle. Make sure it's detailed!
-  - name: Feature Request
-    url: https://github.com/Jarrrk/HighLife/discussions/categories/suggestions
-    about: Suggest an idea for this project.
-  - name: Balance Request
-    url: https://github.com/Jarrrk/HighLife/discussions/categories/balancing
-    about: Something doesn't feel quite right? OP almost? Suggest it here.
-  - name: Community Feedback
-    url: https://github.com/Jarrrk/HighLife/discussions/categories/community
-    about: Suggestions and other methods we can improve the community as a collective - be nice!
+    url: https://discord.com/channels/366897352012988418/1051428611992858715
+    about: Let us know your thoughts in our Discord Forum!
+  - name: Feature Request/Balance Request/Community Feedback
+    url: https://discord.com/channels/366897352012988418/1024449830526910545
+    about: Create a new post on our Discord Forums.
