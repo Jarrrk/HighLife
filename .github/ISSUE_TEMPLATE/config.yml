@@ -1,4 +1,4 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
   - name: Vehicle Request
     url: https://discord.com/channels/366897352012988418/1024452556107296868
