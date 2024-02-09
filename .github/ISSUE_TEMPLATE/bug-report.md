@@ -1,28 +1,72 @@
----
 name: Bug Report
-about: Create a report to help us improve HighLife
-title: ''
-labels: bug
-assignees: ''
+description: Create a report to help us improve HighLife
+labels: ["bug", "triage"]
+assignees:
+  - 
 
----
-
-**Describe the bug**
-[A clear and concise description of what the bug is. **Remove this line!**]
-
-**To Reproduce**
-Steps to reproduce the behaviour:
-1. [replace with]
-2. [all the steps]
-3. [required to explain]
-4. [how to reproduce]
-5. [remove/add steps as you see fit]
-
-**Screenshot/Video**
-[Screenshots/video evidence of the issue occuring **Remove this line!**]
-
-**Additional context**
-[Add any other context about the problem here. **Remove this line!**]
-
-**Client Log OR Error Screenshot**
-[Submit your CitizenFX.log file (you can find this via the discord #support channel) or an error from the F8 log if such error exists **Remove this line!**]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to fill out this bug report.
+        Only bug related issues are accepted, so please refrain from submitting any other requests (including support requests).
+        
+        \* Issue reports that fail to deliver the proper information may be closed without any feedback.
+  
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: |
+        Please be clear and concise
+      placeholder: 
+    validations:
+      required: true
+  
+  - type: input
+    id: expectation
+    attributes:
+      label: Expected result
+      description: |
+        What should've happened instead?
+    validations:
+      required: true
+  
+  - type: textarea
+    id: repro
+    attributes:
+      label: Reproduction steps
+      description: |
+        This is important to us. Fill in the exact steps you took, test and remove any steps that aren't relevant.
+      placeholder: |
+        1. 
+        2. 
+        3. 
+        4. 
+    validations:
+      required: true
+  
+  - type: dropdown
+    id: importancy
+    attributes:
+      label: Importancy
+      description: |
+        To your knowledge how would you describe the importancy of this bug?
+      options:
+        - Unknown
+        - Slight inconvenience
+        - There's a workaround
+        - Low
+        - Medium
+        - High
+        - Critical
+        - Crash
+    validations:
+      required: true
+  
+  - type: textarea
+    id: misc
+    attributes:
+      label: Additional information
+      description: |
+        Anything else you'd like to add?
