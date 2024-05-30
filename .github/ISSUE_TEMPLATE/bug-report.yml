@@ -13,7 +13,7 @@ body:
         
         \* Issue reports that fail to deliver the proper information may be closed without any feedback.
   
-  - type: textarea
+  - type: input
     id: steam-name
     attributes:
       label: Steam Username
