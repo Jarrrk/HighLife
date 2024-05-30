@@ -14,6 +14,16 @@ body:
         \* Issue reports that fail to deliver the proper information may be closed without any feedback.
   
   - type: textarea
+    id: steam-name
+    attributes:
+      label: Steam Username
+      description: |
+        This is required to be able to find your player account if needed
+      placeholder: 
+    validations:
+      required: true
+      
+  - type: textarea
     id: what-happened
     attributes:
       label: What happened?
