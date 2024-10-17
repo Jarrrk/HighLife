@@ -21,7 +21,7 @@ body:
     validations:
       required: true
 
-   - type: input
+  - type: input
     id: discord-name
     attributes:
       label: Discord Username
@@ -30,7 +30,7 @@ body:
       placeholder: 
     validations:
       required: true
-      
+  
   - type: textarea
     id: what-happened
     attributes:
