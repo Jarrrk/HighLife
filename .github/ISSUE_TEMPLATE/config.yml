@@ -1,11 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Vehicle Request
-    url: https://discord.com/channels/366897352012988418/1024452556107296868
-    about: Request vehicles on this Discord Forum thread for the vehicles team to review. Please follow the format!
-  - name: Vehicle Issues/Balance
-    url: https://discord.com/channels/366897352012988418/1051428611992858715
-    about: Let us know your thoughts in our Discord Forum!
   - name: Feature Request/Balance Request/Community Feedback
-    url: https://discord.com/channels/366897352012988418/1024449830526910545
-    about: Create a new post on our Discord Forums.
+    url: https://highliferoleplay.net/suggestions
+    about: Create a new post in our suggestions tracker!
