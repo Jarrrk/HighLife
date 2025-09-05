@@ -1,5 +1,9 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Vehicle Model/Handling issues
+    url: https://github.com/Jarrrk/HighLife-Vehicles/issues
+    about: Submit an issue specifically relating to vehicles.
+    
   - name: Feature Request/Balance Request/Community Feedback
     url: https://highliferoleplay.net/suggestions
     about: Create a new post in our suggestions tracker!
