@@ -1,5 +1,9 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Exploit/Abuse Report?
+    url: https://highliferoleplay.net/user/help/exploit
+    about: If your issue is sensitive (i.e an exploit/could easily be abused) please report this via our website ticket system to receive a bug bounty reward if verified.
+    
   - name: Vehicle Model/Handling issues
     url: https://github.com/Jarrrk/HighLife-Vehicles/issues
     about: Submit an issue specifically relating to vehicles.
