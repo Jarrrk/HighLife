@@ -64,24 +64,6 @@ body:
     validations:
       required: true
   
-  - type: dropdown
-    id: importancy
-    attributes:
-      label: Importancy
-      description: |
-        To your knowledge how would you describe the importancy of this bug?
-      options:
-        - Unknown
-        - Slight inconvenience
-        - There's a workaround
-        - Low
-        - Medium
-        - High
-        - Critical
-        - Crash
-    validations:
-      required: true
-  
   - type: textarea
     id: misc
     attributes:
